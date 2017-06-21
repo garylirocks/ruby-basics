@@ -1,4 +1,4 @@
-# this file shows how to define and call a function
+# this file shows how to define and call a method
 
 def hi(name)
     # NOTE
@@ -14,5 +14,5 @@ def self_intro(name, age)
 end
 
 # NOTE
-# parenthesis is not absolutely needed for a function call
+# parenthesis is not absolutely needed for a method call
 self_intro "gary", 26
